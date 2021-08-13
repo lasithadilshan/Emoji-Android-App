@@ -4,9 +4,6 @@
 [![Emoji Android App | #shorts](https://img.youtube.com/vi/x7RpYVMyxN0/0.jpg)](https://www.youtube.com/watch?v=x7RpYVMyxN0)
 
 
-https://youtu.be/x7RpYVMyxN0
-
-
 > build.grade.app
 
 ```
