@@ -8,7 +8,7 @@
 
 ><h4>Youtube short video</h4>
 
-[![Emoji Android App | #shorts](https://img.youtube.com/vi/x7RpYVMyxN0/1.jpg)](https://www.youtube.com/watch?v=x7RpYVMyxN0)
+[![Emoji Android App | #shorts](https://img.youtube.com/vi/x7RpYVMyxN0/0.jpg)](https://www.youtube.com/watch?v=x7RpYVMyxN0)
 
 
 > build.grade.app
